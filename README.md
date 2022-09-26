@@ -23,11 +23,11 @@ Follow the below steps to get the code onto your local machine.
 * Go to the directory where you want to place the code using [cd](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cd) for Windows, and it functions mostly the same for Mac. You just use "cd" but the folder structure on Mac is different (/Users/username/Documents instead of C:/Users/username/Documents)
 * Copy the following command into the terminal, (remember, you must have [Git](https://git-scm.com/downloads) installed)
 ```sh
-git clone https://github.com/Manual-To-Automation-Browserstack/Bupa-Lesson-1-Intro-To-Specflow.git.
+git clone https://github.com/Manual-To-Automation-Bupa/Bupa-Lesson-1-Specflow-Intro.git.
 ```
 * Move into the directory that you just cloned by typing
 ```sh
-cd Bupa-Lesson-1-Intro-To-Specflow
+cd Bupa-Lesson-1-Specflow-Intro
 ```
 * Double click on the <b>Lesson1_SpecFlowAndSelenium.sln</b> file to open the project in Visual Studio.
 
